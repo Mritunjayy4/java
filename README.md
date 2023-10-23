@@ -1,1 +1,1 @@
-# java
+# Snake Game is a classic arcade-style game where a player controls a snake that moves around the screen, eating food and growing in size. The objective is to avoid colliding with the walls or the snake's own body while attempting to eat as much food as possible. 
